@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Hefeng Zhou (周鹤峰)
 
-<!--
-**PhilipStayFocus/PhilipStayFocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Master's @ University of Michigan (SIPML Track)  
+💻 Focused on Machine Learning, Computer Vision, and Backend Engineering  
+🚀 Currently working on: DeepLabV3+ + VOC training and real-time signal processing
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🧠 Deep Learning: PyTorch, TensorFlow
+- 🖼️ CV: OpenCV, Diffusion Models
+- 🐍 Backend: Python, FastAPI, PostgreSQL
+- 🔬 Research: Signal Processing, Fourier Up-sampling
+- ⌨️ Embeded System: STM32, OpenMV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔗 [Verbsius/EECS556_25WN](https://github.com/Verbsius/EECS556_25WN): DeepLabV3+ training, VOC setup
+
+## 📫 How to reach me
+- Email: philipzhou912@gmail.com
+- GitHub: [@zhouhf](https://github.com/zhouhf)
