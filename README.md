@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hefeng Zhou (周鹤峰)
+# 👋 Hi, I'm Hefeng Zhou (周鹤峰)!! You can call me Philip!
 
 🎓 ECE Master's @ University of Michigan (SIPML Track)  
 💻 Focused on Machine Learning, Computer Vision, and Backend Engineering  
@@ -17,3 +17,7 @@
 ## 📫 How to reach me
 - Email: philipzhou912@gmail.com
 - GitHub: [@zhouhf](https://github.com/zhouhf)
+
+## 🎮 Interests
+- GYMMMMM! Refine the spirit, harden the body.(文明其精神，野蛮其体魄)
+- Games: League of Legends, Valorant, CS-GO/CS2, Apex, PUBG, Overwatch
