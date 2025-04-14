@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me
 - Email: philipzhou912@gmail.com
-- GitHub: [@zhouhf](https://github.com/zhouhf)
+- GitHub: [@PhilipStayFocus](https://github.com/PhilipStayFocus)
 
 ## 🎮 Interests
 - GYMMMMM! Refine the spirit, harden the body.(文明其精神，野蛮其体魄)
