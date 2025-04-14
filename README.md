@@ -8,7 +8,7 @@
 - 🧠 Deep Learning: PyTorch, TensorFlow
 - 🖼️ CV: OpenCV, Diffusion Models
 - 🐍 Backend: Python, FastAPI, PostgreSQL
-- 🔬 Research: Signal Processing, Fourier Up-sampling
+- 🔬 Research: Signal Processing, Fourier Up-sampling, Image Editting, Machine Learning, Deep Learning
 - ⌨️ Embeded System: STM32, OpenMV
 
 ## 📌 Featured Projects
